@@ -1,0 +1,15 @@
+{
+    "name": "nikita/test-work",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Kotikov",
+            "email": "kotikov.software@gmail.com"
+        }
+    ],
+    "require": {}
+}
